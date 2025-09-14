@@ -213,5 +213,6 @@ __marimo__/
 *.pdf
 *.txt
 .48_ANN_project_implement
+*.bin
 
 
