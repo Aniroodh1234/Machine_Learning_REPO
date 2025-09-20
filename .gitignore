@@ -214,5 +214,8 @@ __marimo__/
 *.txt
 .48_ANN_project_implement
 *.bin
-
+*.csv
+*.xlsx
+df_excel
+*.db
 
