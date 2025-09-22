@@ -1,0 +1,19 @@
+{% extends "11_feedback_base.html" %}
+
+{% block title %}Feedback Form{%endblock%}
+
+{%block content%}
+<h2>Send us a feedback</h2>
+<form method="POST" action="/11_feedback_feedback">
+    <label for="name">Name:</label>
+    <input type="text" placeholder="your name" id="name" name="name"><br>
+
+    <label for="message">Message:</label>
+    <textarea  placeholder="message" name="message" id="message"></textarea><br>
+
+    <button type="submit">Submit</button>
+
+
+</form>
+
+{%endblock%}

@@ -1,0 +1,12 @@
+{% extends "11_feedback_base.html" %}
+
+{%block title%} Thank you page{%endblock%}
+
+{%block content%}
+<h1>Thanks!! {{user}} for your feedback</h1>
+<p>for you message "{{message}}" </p>
+
+
+<a href="{{ url_for('feedback') }}">Feedback</a>
+
+{%endblock%}
