@@ -218,4 +218,5 @@ __marimo__/
 *.xlsx
 df_excel
 *.db
+*.json
 
