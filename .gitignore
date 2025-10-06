@@ -220,3 +220,8 @@ df_excel
 *.db
 *.json
 *19-inferential_statics_ML
+*23-Complete Linear Regression/Regression Handwritten Notes/linear_regression_IMP_POINTS.ipynb
+*23-Complete Linear Regression/Regression Handwritten Notes/regression_model_steps.ipynb
+*24-Ridge Lasso And Elasticnet/Ridge Lasso elastic Handwritten Materials/imp_points.ipynb
+*24-Ridge Lasso And Elasticnet/Ridge Lassso Elastic Regression Practicals/Ridge, Lasso Regression.ipynb
+hyperparameter_tinning_imp_points.ipynb
