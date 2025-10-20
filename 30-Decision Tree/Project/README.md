@@ -1,1 +1,1 @@
-Implementing Decision tree using diabetes dataset
+Implementing Decision tree regression and classification using diabetes datset
